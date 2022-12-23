@@ -12,9 +12,9 @@
   ([Download MinGW - Minimalist GNU for Windows from SourceForge.net](https://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download?use_mirror=altushost-swe&download=&failedmirror=deac-ams.dl.sourceforge.net))
   
   select the following options and proceed with the installation,
-  
-  ![](file://C:\Users\Maksud\AppData\Roaming\marktext\images\2022-12-23-18-39-42-image.png?msec=1671799182962)![](file:///C:/Users/Maksud/AppData/Roaming/marktext/images/2022-12-23-18-41-06-image.png?msec=1671799278546)
-  ![](file:///C:/Users/Maksud/AppData/Roaming/marktext/images/2022-12-23-18-41-49-image.png?msec=1671799315866)
+  ![](C:\Users\Maksud\AppData\Roaming\marktext\images\2022-12-23-18-39-42-image.png)
+  <img src="file:///C:/Users/Maksud/AppData/Roaming/marktext/images/2022-12-23-18-41-06-image.png" title="" alt="" width="598">
+  <img src="file:///C:/Users/Maksud/AppData/Roaming/marktext/images/2022-12-23-18-41-49-image.png" title="" alt="" width="600">
   
 6. Add "C:\MinGW\bin" to your environment variable path,
   
@@ -25,8 +25,9 @@
   ```
   
 8. Next, we need to open our VS code and fix something in the settings, check this box,
+  ![](C:\Users\Maksud\AppData\Roaming\marktext\images\2022-12-23-18-56-11-image.png)
   
-  ![](file://C:\Users\Maksud\AppData\Roaming\marktext\images\2022-12-23-18-56-11-image.png?msec=1671800171279)
   
 
 We are good to go now; if you run the code using the play/run button, you should see something like this,
+![](C:\Users\Maksud\AppData\Roaming\marktext\images\2022-12-23-19-00-20-image.png)
