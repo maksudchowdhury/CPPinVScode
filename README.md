@@ -13,8 +13,9 @@
   
   select the following options and proceed with the installation,
   ![2022-12-23-18-39-42-image](https://user-images.githubusercontent.com/45464612/209340901-4d7fe0fc-f346-400a-98db-2fdee94f0422.png)
+ once the download process is finished, select these files to be installed,
 ![2022-12-23-18-41-06-image](https://user-images.githubusercontent.com/45464612/209340925-b3490457-289c-43b8-b216-158ab6aedd65.png)
-![2022-12-23-18-41-49-image](https://user-images.githubusercontent.com/45464612/209340937-ee9e466b-aaa3-4db8-8a91-007167e98035.png)
+
 
   
 6. Add "C:\MinGW\bin" to your environment variable path,
